@@ -14,3 +14,13 @@
 | F | [돌 게임 2](https://www.acmicpc.net/problem/9656) | baekjoon@BOJ |
 | G | [유진수](https://www.acmicpc.net/problem/1356) | baekjoon@BOJ |
 | H | [Relatives](https://www.acmicpc.net/problem/4355) | Waterloo's 1 June, 2002 #E |
+
+## 수상자
+
+초급 스터디 수강자만 수상 가능했습니다.
+
+| # | 닉네임 | 이름 |
+| - | --- | --- |
+| 1 | ilsole1025 | 이수빈 |
+| 2 | fakingate | 김진수 |
+| 3 | alluo2 | 김세영 |
